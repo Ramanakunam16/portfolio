@@ -43,7 +43,8 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "Javascript", "CSS Media Queries"],
   },
   {
-    title: "https://accizone-finder.onrender.com/",
+    title: "Acci Zone Finder",
+    link: "https://accizone-finder.onrender.com/",
     image: project4,
     description:
       "Designed and developed an app to identify accident-prone zones using the Leaflet library and available data.",
