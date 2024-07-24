@@ -43,9 +43,7 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "Javascript", "CSS Media Queries"],
   },
   {
-    title: "Fast React Pizza",
-
-    link: "https://github.com/ramanakunam16",
+    title: "https://accizone-finder.onrender.com/",
     image: project4,
     description:
       "A pizza online booking platform showcasing skills in redux toolKit(RTK),React Router,Tailwind and CRUD operations",

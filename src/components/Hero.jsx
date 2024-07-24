@@ -37,7 +37,7 @@ function Hero() {
               animate="visible"
               className="my-2 max-w-xl py-6 text-lg font-light tracking-tighter"
             >
-              {HERO_CONTENT}
+              {/* {HERO_CONTENT} */}
             </motion.p>
           </div>
         </div>
