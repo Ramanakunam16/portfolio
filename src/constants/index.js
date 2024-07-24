@@ -45,8 +45,8 @@ export const PROJECTS = [
   {
     title: "https://accizone-finder.onrender.com/",
     image: project4,
-    description: "Designed and developed an app to identify accident-prone zones using the Leaflet library
-and available data.",
+    description:
+      "Designed and developed an app to identify accident-prone zones using the Leaflet library and available data.",
     technologies: ["HTML", "CSS", "React", "Redux", "React Router"],
   },
 ];
